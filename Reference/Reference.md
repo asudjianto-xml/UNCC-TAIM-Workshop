@@ -22,6 +22,10 @@ Enhancing Robustness of Gradient-Boosted Decision Trees through One-Hot Encoding
 ### Fairness
 Less Discriminatory Alternative and Interpretable XGBoost Framework for Binary Classification: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4998508
 
+Bias, Fairness, and Accountability with AI and ML Algorithms: https://arxiv.org/abs/2105.06558
+
+Fairness and machine learning: https://fairmlbook.org/pdf/fairmlbook.pdf
+
 ### General Model Validation Practice
 Model Validation Practice in Banking: A Structured Approach for Predictive Models: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4977043
 
